@@ -3,7 +3,7 @@
 /* متغيرات CSS لتسهيل التخصيص */
 :root {
   --bg-color: #0a3a45;
-  --card-bg-color: #075c57;
+  --card-bg-color: rgb(7, 92, 87);
   --text-color: #FFFFFF;
   --muted-text-color: #ffffff;
   --accent-color: #14B8A6;
