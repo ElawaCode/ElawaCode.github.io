@@ -485,90 +485,48 @@ p {
     animation: aboutSpinner 8s linear infinite;
 }
 
-/* ---------------------------------------------------------------------------------- */
-/* أنماط قسم المهارات (Skills Section) */
+/* ------------------------ Responsive Skills Section ------------------------ */
+@media (max-width: 992px) {
+    .three-cols {
+        grid-template-columns: repeat(2, 1fr); /* عمودين بدل 3 */
+    }
 
-/* General Section Container */
-.section-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem 4%;
+    .section-heading {
+        font-size: 2.8rem;
+        margin-bottom: 3rem;
+    }
+
+    .card-header h3 {
+        font-size: 1.8rem;
+    }
+
+    .skills-tags span {
+        font-size: 1.3rem;
+        padding: 0.4rem 1rem;
+    }
 }
 
-/* Section Heading */
-.section-heading {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 3.2rem;
-    color: var(--accent-color);
-    margin-bottom: 4rem;
-    text-align: center;
-    min-height: 3.5rem; /* عشان مفيش اهتزاز في الانيميشن */
+@media (max-width: 576px) {
+    .three-cols {
+        grid-template-columns: 1fr; /* عمود واحد للموبايل */
+        gap: 2rem;
+    }
+
+    .section-heading {
+        font-size: 2.2rem;
+        margin-bottom: 2rem;
+    }
+
+    .card-header h3 {
+        font-size: 1.6rem;
+    }
+
+    .skills-tags span {
+        font-size: 1.2rem;
+        padding: 0.3rem 0.8rem;
+    }
 }
 
-/* Grid Layout */
-.grid-container {
-    display: grid;
-    gap: 2.5rem;
-}
-
-.three-cols {
-    grid-template-columns: repeat(3, 1fr);
-}
-
-/* Card Style */
-.card {
-    background: var(--card-bg-color);
-    border: 1px solid var(--border-color);
-    border-radius: 1rem;
-    padding: 2.5rem;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(10, 58, 69, 0.459);
-}
-
-/* Card Header */
-.card-header {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    justify-content: center; /* مركز العنوان والأيقونة */
-    margin-bottom: 1.5rem;
-}
-
-.card-icon {
-    font-size: 2.4rem;
-    color: var(--accent-color);
-}
-
-.card-header h3 {
-    font-size: 2rem;
-    font-weight: 600;
-    color: var(--text-color);
-}
-
-/* Skills Tags */
-.skills-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.8rem;
-    margin-top: 0;
-}
-
-.skills-tags span {
-    background: rgba(10, 58, 69, 0.459);
-    color: var(--muted-text-color);
-    padding: 0.5rem 1.2rem;
-    border-radius: 0.5rem;
-    font-size: 1.4rem;
-    font-weight: 500;
-}
 
 /* ---------------------------------------------------------------------------------- */
 /* أنماط قسم المشاريع (Projects Section) */

@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
         'contact_facebook': { en: 'Facebook', ar: 'فيسبوك' },
         'contact_linktree': { en: 'Linktree', ar: 'لينك تري' },
         // Footer
-        'footer_text': { en: '© 2025 MohamedAhmedGamil. All rights reserved.', ar: '© ٢٠٢٥ محمد أحمد جميل. جميع الحقوق محفوظة.' },
+        'footer_text': { en: '© 2025 MohamedAhmedGamilElawa. All rights reserved.', ar: '© ٢٠٢٥ محمد أحمد جميل. جميع الحقوق محفوظة.' },
     };
 
     // 2. The function to switch the language
