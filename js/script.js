@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // 1. All translations are stored here
     const translations = {
         // Page Title
-        'page_title': { en: 'Mohamed Elawa | محمد عِلاوة', ar: 'محمد عِلاوة | Mohamed Elawa' },
-        'description': { en: 'Mohamed Ahmed Gamil is a Web & System Analyst specializing in system analysis and web development. He helps companies and individuals gather requirements, design databases, and build high-quality websites and web applications.', ar: 'Mohamed Ahmed Gamil | محمد أحمد جميل، محلل نظم ومطور ويب متخصص. يساعد الشركات والأفراد في جمع المتطلبات، تصميم قواعد البيانات، وبناء مواقع وتطبيقات ويب عالية الجودة.' },
+        'page_title': { en: 'Mohamed Elawa | محمد عِلاوه', ar: 'محمد عِلاوه | Mohamed Elawa' },
+        'description': { en: 'Mohamed Ahmed Gamil Elawa is a Web & System Analyst specializing in system analysis and web development. He helps companies and individuals gather requirements, design databases, and build high-quality websites and web applications.', ar: 'Mohamed Ahmed Gamil | محمد أحمد جميل، محلل نظم ومطور ويب متخصص. يساعد الشركات والأفراد في جمع المتطلبات، تصميم قواعد البيانات، وبناء مواقع وتطبيقات ويب عالية الجودة.' },
         // Language Switcher Button Text
         'lang_switcher_text': { en: 'عربي', ar: 'EN' },
         // Logo Text
