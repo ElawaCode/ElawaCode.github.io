@@ -109,6 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
         'contact_tiktok': { en: 'TikTok', ar: 'تيك توك' },
         'contact_youtube': { en: 'YouTube', ar: 'يوتيوب' },
         'contact_facebook': { en: 'Facebook', ar: 'فيسبوك' },
+        'contact_x': { en: 'X (Twitter)', ar: 'X (تويتر)' },
         'contact_linktree': { en: 'Linktree', ar: 'لينك تري' },
         // Footer
         'footer_text': { en: '© 2025 MohamedAhmedGamilElawa. All rights reserved.', ar: '© ٢٠٢٥ محمد أحمد جميل. جميع الحقوق محفوظة.' },
