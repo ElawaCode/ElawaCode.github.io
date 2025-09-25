@@ -57,19 +57,18 @@ document.addEventListener("DOMContentLoaded", function () {
         'skills_tech': { en: 'Technical Skills', ar: 'المهارات التقنية' },
         'skills_soft': { en: 'Soft Skills', ar: 'المهارات الشخصية' },
         'skills_lang': { en: 'Languages', ar: 'اللغات' },
+
+        // Soft Skills
         'soft_skill1': { en: 'Problem Solving', ar: 'حل المشكلات' },
-        'soft_skill2': { en: 'Creativity', ar: 'الإبداع' },
-        'soft_skill3': { en: 'Time Management', ar: 'إدارة الوقت' },
+        'soft_skill2': { en: 'Critical Thinking', ar: 'التفكير النقدي' },
+        'soft_skill3': { en: 'Creativity', ar: 'الإبداع' },
         'soft_skill4': { en: 'Adaptability', ar: 'القدرة على التكيف' },
-        'soft_skill5': { en: 'Team Collaboration', ar: 'العمل الجماعي' },
-        'soft_skill6': { en: 'Continuous Learning', ar: 'التعلم المستمر' },
-        'soft_skill7': { en: 'Attention to Detail', ar: 'الاهتمام بالتفاصيل' },
-        'soft_skill8': { en: 'Effective Communication', ar: 'التواصل الفعال' },
-        'soft_skill9': { en: 'Critical Thinking', ar: 'التفكير النقدي' },
-        'soft_skill10': { en: 'Communication Skills', ar: 'مهارات التواصل' },
-        'lang_arabic': { en: 'Arabic', ar: 'العربية اللغة' },
-        'lang_english': { en: 'English', ar: 'الإنجليزية' },
-        // Language Switcher Options
+        'soft_skill5': { en: 'Time Management', ar: 'إدارة الوقت' },
+        'soft_skill6': { en: 'Team Collaboration', ar: 'العمل الجماعي' },
+        'soft_skill7': { en: 'Continuous Learning', ar: 'التعلم المستمر' },
+        'soft_skill8': { en: 'Communication Skills', ar: 'مهارات التواصل' },
+
+        // Languages
         'lang_ar': { en: 'Arabic', ar: 'العربية' },
         'lang_en': { en: 'English', ar: 'الإنجليزية' },
         // Projects Section
