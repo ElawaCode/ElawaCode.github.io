@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Language Switcher Button Text
         'lang_switcher_text': { en: 'عربي', ar: 'EN' },
         // Logo Text
-        'logo_text': { en: '</> Elawa Code', ar: ' </> علاوة كود' },
+        'logo_text': { en: '</> Elawa Code', ar: ' </> علاوه كود' },
         // Navbar Links
         'nav_home': { en: 'Home', ar: 'الرئيسية' },
         'nav_about': { en: 'About', ar: 'عني' },
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
         'contact_x': { en: 'X (Twitter)', ar: 'X (تويتر)' },
         'contact_linktree': { en: 'Linktree', ar: 'لينك تري' },
         // Footer
-        'footer_text': { en: '© 2025 MohamedAhmedGamilElawa. All rights reserved.', ar: '© ٢٠٢٥ محمد أحمد جميل. جميع الحقوق محفوظة.' },
+        'footer_text': { en: '© 2025 Mohamed Ahmed Gamil Elawa. All rights reserved.', ar: '© ٢٠٢٥ محمد أحمد جميل. جميع الحقوق محفوظة.' },
     };
 
     // 2. The function to switch the language
