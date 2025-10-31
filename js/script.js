@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // 1. All translations are stored here
     const translations = {
         // Page Title
-        'page_title': { en: 'Mohamed Elawa | محمد عِلاوه', ar: 'محمد  عِلاوه | Mohamed Elawa' },
+        'page_title': { en: 'Mohamed Elawa | محمد عِلاوه', ar: 'Mohamed Elawa | محمد عِلاوه' },
         'description': { en: 'Mohamed Ahmed Gamil Elawa is a Web & System Analyst specializing in system analysis and web development. He helps companies and individuals gather requirements, design databases, and build high-quality websites and web applications.', ar: 'Mohamed Ahmed Gamil | محمد أحمد جميل، محلل نظم ومطور ويب متخصص. يساعد الشركات والأفراد في جمع المتطلبات، تصميم قواعد البيانات، وبناء مواقع وتطبيقات ويب عالية الجودة.' },
         // Language Switcher Button Text
         'lang_switcher_text': { en: 'عربي', ar: 'EN' },
@@ -24,10 +24,10 @@ document.addEventListener("DOMContentLoaded", function () {
         'nav_certs': { en: 'Certifications', ar: 'الشهادات' },
         'nav_contact': { en: 'Contact', ar: 'تواصل' },
         // Home Section
-        'home_name': { en: 'Mohamed Ahmed Gamil Elawa', ar: 'محمد أحمد جميل عِلاوة' },
+        'home_name': { en: 'Mohamed Elawa', ar: 'محمد عِلاوه' },
     'home_bio': {
-    en: `I am Mohamed Ahmed Gamil, known as Mohamed Elawa and ElawaCode, a Web Developer & System Analyst based in Giza, Egypt. I specialize in creating modern and user-friendly web applications, analyzing systems, and aligning business needs with the right technology. With a passion for continuous learning, I tackle challenges with confidence and a positive mindset. My ambition is to grow as a professional developer and analyst, to become a skilled Software Engineer, and to deliver impactful digital solutions that truly make a difference.`,
-    ar: `أنا محمد أحمد جميل، المعروف باسم محمد عِلاوة وعِلاوة كود، مطوّر ويب ومحلل نظم من الجيزة - مصر. أتخصص في إنشاء تطبيقات ويب عصرية وسهلة الاستخدام، وتحليل الأنظمة، ومواءمة احتياجات الأعمال مع التكنولوجيا المناسبة. بشغف للتعلم المستمر، أتعامل مع التحديات بثقة وعقلية إيجابية. طموحي هو النمو كمطوّر ومحلل محترف، لأصبح مهندس برمجيات متمكن، وأقدّم حلولًا رقمية مؤثرة تحدث فرقًا حقيقيًا.`
+    en: `I am Mohamed Ahmed Gamil Elawa, known as Mohamed Elawa and ElawaCode, a Web Developer & System Analyst based in Giza, Egypt. I specialize in creating modern and user-friendly web applications, analyzing systems, and aligning business needs with the right technology. With a passion for continuous learning, I tackle challenges with confidence and a positive mindset. My ambition is to grow as a professional developer and analyst, to become a skilled Software Engineer, and to deliver impactful digital solutions that truly make a difference.`,
+    ar: `أنا محمد أحمد جميل علاوه، المعروف باسم محمد عِلاوه وعِلاوه كود، مطوّر ويب ومحلل نظم من الجيزة - مصر. أتخصص في إنشاء تطبيقات ويب عصرية وسهلة الاستخدام، وتحليل الأنظمة، ومواءمة احتياجات الأعمال مع التكنولوجيا المناسبة. بشغف للتعلم المستمر، أتعامل مع التحديات بثقة وعقلية إيجابية. طموحي هو النمو كمطوّر ومحلل محترف، لأصبح مهندس برمجيات متمكن، وأقدّم حلولًا رقمية مؤثرة تحدث فرقًا حقيقيًا.`
     },
         'view_projects': { en: 'View Projects', ar: 'تصفح المشاريع' },
         'contact_me': { en: 'Contact Me', ar: 'تواصل معي' },
