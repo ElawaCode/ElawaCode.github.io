@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         'nav_certs': { ar: 'الشهادات', en: 'Certifications' },
         'nav_articles': { ar: 'مقالاتي', en: 'Articles' },
         'nav_contact': { ar: 'التواصل', en: 'Contact' },
-        'home_name': { ar: 'Mohamed Elawa', en: 'Mohamed Elawa' },
+        'home_name': { ar: 'محمد عِلاوه', en: 'Mohamed Elawa' },
         'home_bio': {
             ar: `أنا محمد أحمد جميل علاوه، المعروف باسم محمد عِلاوه وعِلاوه كود، من الجيزة - مصر. أهتم بالتعلم المستمر وتطوير نفسي، وأشارك رحلتي وأفكاري وأعمالي مع الآخرين. هدفي أن أصبح مهندس برمجيات مستقبليًا، وأبني حلولًا رقمية مؤثرة وذات قيمة حقيقية. أتعامل مع التحديات بثقة وعقلية إيجابية، وأسعى دائمًا للنمو واكتساب مهارات جديدة تفتح لي فرصًا لصناعة فرق حقيقي.`,
             en: `I am Mohamed Ahmed Gamil Elawa, known as Mohamed Elawa and ElawaCode, from Giza - Egypt. I focus on continuous learning, sharing my journey and ideas. My goal is to become a future Software Engineer, building impactful digital solutions. I tackle challenges with a positive mindset, always seeking growth and new skills.`
